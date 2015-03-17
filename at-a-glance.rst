@@ -15,7 +15,7 @@ and parse the response content. They are very simple to run and configure,
 because this type of emulators can be written in any available programming
 language and can be run through console on servers without GUI. Headless
 emulators have both advantages and disadvantages. Advantages are simplicity,
-speed and ability to run it without the need of a real browser. But this
+speed and ability to run it without the need of a real browser. But these
 type of browsers has one big disadvantage, they have no JS/AJAX support.
 So, you can't test your rich GUI web applications with headless browsers.
 
