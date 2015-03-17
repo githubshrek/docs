@@ -4,7 +4,7 @@ Mink at a Glance
 There's huge amount of browser emulators out there, like `Goutte`_, `Selenium`_,
 `Sahi`_ and others. They all do the same job, but do it very differently.
 They behave differently and have very different API's. But, what's more important,
-there is actually 2 completely different types of browser emulators out there:
+there are actually 2 completely different types of browser emulators out there:
 
 * Headless browser emulators
 * Browser controllers
